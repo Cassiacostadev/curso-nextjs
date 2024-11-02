@@ -43,6 +43,3 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 - Inicie o servidor de desenvolvimento com `npm run dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
 
-## 📚 Mais Informações do Curso
-
-Interessado em aprofundar seus conhecimentos em Next.js e SSR? [Acesse o curso]() que desenvolve este projeto desde o início!
